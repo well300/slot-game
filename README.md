@@ -16,4 +16,3 @@ npm run serve
 npm install
 ```
 
-![img.png](img/cover.png)
